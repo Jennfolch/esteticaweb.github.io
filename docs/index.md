@@ -1,4 +1,4 @@
-#<p style=" color:#D89A91; aling: center" Índice <p>
+#<h1 style=" color:#D89A91; aling:center;" Índice </h1>
 
 - [Introducción](introduccion.md)
 - [Instalación](instalacion.md)
