@@ -1,4 +1,4 @@
-# Índice
+#<p style=" color:#D89A91; aling: center" Índice <p>
 
 - [Introducción](introduccion.md)
 - [Instalación](instalacion.md)
