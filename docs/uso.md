@@ -1,8 +1,8 @@
----
-layout: default
-title: Versiones Responsivas
-nav_order: 4
----
+
+## Objetivos del Proyecto
+1. Promocionar servicios y productos del centro.
+2. Implementar un área personalizada para fidelización.
+3. Desarrollar una interfaz accesible y moderna.
 
 # Adaptabilidad del Diseño
 
