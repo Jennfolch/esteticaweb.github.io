@@ -9,15 +9,14 @@ Bienvenida a la documentación oficial del proyecto **Mara – Estética y Cuida
 
 Este sitio recoge:
 
-- Enunciado del proyecto  
-- Análisis de usuarios  
-- Objetivos  
-- Tecnologías empleadas  
-- Prototipo y mockups  
-- Paleta de colores y tipografías  
-- Conclusiones  
+- [Enunciado del proyecto](01-introduccion.md)
+- [Análisis de usuarios] (02-analisis-usuarios.md)  
+- [Objetivos]  (03-objetivos.md)
+- [Tecnologías empleadas] (04-tecnologias.md)
+- [Prototipo y mockups]  (05-prototipo.md)
+- [Paleta de colores y tipografías]  (06-paleta-tipografia.md)
+- [Conclusiones]  (07-conclusiones.md)
 
-Explora el menú lateral para navegar por cada sección.
 
 <div style="background:#F0D8D4; padding:15px; border-radius:8px; margin-top:20px;">
   <strong>Identidad visual:</strong> tonos tierra, beige, rosa empolvado y marrones suaves que transmiten bienestar, calma y elegancia.
