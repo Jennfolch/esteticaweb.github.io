@@ -1,0 +1,69 @@
+---
+---
+
+/* ===========================
+   PALETA DE COLORES MARA
+   =========================== */
+
+$primary:   #D89A91;   // Rosa tierra elegante
+$secondary: #F0D8D4;   // Rosa empolvado suave
+$accent:    #7B4139;   // Marrón para botones
+$neutral:   #987F7B;   // Marrón suave
+$bg:        #F8F7F7;   // Fondo crema
+
+/* ===========================
+   TIPOGRAFÍAS
+   =========================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Mulish:wght@300;400;600&display=swap');
+
+body {
+  background: $bg;
+  color: #333;
+  font-family: "Mulish", sans-serif;
+  line-height: 1.6;
+}
+
+/* Títulos */
+h1, h2, h3, h4 {
+  font-family: "Playfair Display", serif;
+  color: $primary;
+}
+
+/* Enlaces */
+a {
+  color: $accent;
+  font-weight: 600;
+}
+
+a:hover {
+  color: darken($accent, 10%);
+}
+
+/* Bloques destacados */
+.highlight-box {
+  background: $secondary;
+  padding: 15px;
+  border-radius: 8px;
+  border-left: 6px solid $primary;
+  margin: 20px 0;
+}
+
+/* Tarjetas de color */
+.color-card {
+  padding: 20px;
+  border-radius: 8px;
+  width: 140px;
+  text-align: center;
+  font-weight: 600;
+  margin: 10px;
+  display: inline-block;
+}
+
+/* Footer */
+footer {
+  background: $secondary !important;
+  padding: 20px;
+  text-align: center;
+  color: #333;
+}
