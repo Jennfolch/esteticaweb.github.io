@@ -1,0 +1,11 @@
+title: "Mara · Estética y Cuidado Corporal"
+description: "Documentación del proyecto — Jennifer Folch"
+theme: jekyll-theme-cayman
+
+# Activar Sass
+sass:
+  style: compressed
+
+# Incluir carpeta de estilos
+include:
+  - assets/css/style.scss
