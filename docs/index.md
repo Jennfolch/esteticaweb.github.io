@@ -30,7 +30,7 @@ Bienvenida a la documentación oficial del proyecto **Mara – Estética y Cuida
 6. [Paleta de colores y tipografías](06-paleta-tipografia.md)  
    Identidad visual del proyecto.
 
-7. [Conclusiones](07-conclusion.md)  
+7. [Conclusiones](07-conclusiones.md)  
    Valoración final y próximos pasos.
 
 ---
